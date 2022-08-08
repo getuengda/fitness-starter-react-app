@@ -23,5 +23,5 @@ Improve knowledge and skill to build react application.
 1. npm install
 2. npm start
 
-## Achnoledgement
+## Acknowledgement
 . ZAINKEEPSCODE
