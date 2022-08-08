@@ -1,4 +1,4 @@
-# Fitnessclub Starter React App
+# Fitclub Starter React App
 
 ## Objectives
 
