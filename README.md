@@ -9,18 +9,19 @@ Improve knowledge and skill to build react application.
 
 ## Tech Stacks
 
-• ReactJS
-• CSS
-• Git/GitHub
-• Heroku
+  - ### ReactJS
+  - ### CSS
+  - ### Git/GitHub
+  - ### Heroku
 
 ## Link to deployed site
 
-• [Heroku]()
+•[Heroku]()
 
 ## Installation instructions
 
 1. npm install
 2. npm start
 
-## Achnoledgement
+## Acknowledgement
+. ZAINKEEPSCODE
