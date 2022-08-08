@@ -1,4 +1,4 @@
-# Fitnessclub Starter React App
+# Fitclub Starter React App
 
 ## Objectives
 
@@ -10,7 +10,7 @@ Improve knowledge and skill to build react application.
 ## Tech Stacks
 
   - ### ReactJS
-  - ### CSS
+  - ### CSS and html
   - ### Git/GitHub
   - ### Heroku
 
