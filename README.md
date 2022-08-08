@@ -9,10 +9,10 @@ Improve knowledge and skill to build react application.
 
 ## Tech Stacks
 
-ReactJS
-CSS
-Git/GitHub
-Heroku
+  ### ReactJS
+  ### CSS
+  ### Git/GitHub
+  ### Heroku
 
 ## Link to deployed site
 
