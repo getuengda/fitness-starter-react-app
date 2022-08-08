@@ -10,7 +10,7 @@ Improve knowledge and skill to build react application.
 ## Tech Stacks
 
   - ### ReactJS
-  - ### CSS, html and Javascript
+  - ### CSS and html
   - ### Git/GitHub
   - ### Heroku
 
