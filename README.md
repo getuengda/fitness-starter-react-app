@@ -16,7 +16,7 @@ Improve knowledge and skill to build react application.
 
 ## Link to deployed site
 
-•[Heroku]()
+•[CLOUDFLARE](https://fitness-starter-react-app.pages.dev/)
 
 ## Installation instructions
 
