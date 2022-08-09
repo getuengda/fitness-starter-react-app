@@ -16,12 +16,12 @@ Improve knowledge and skill to build react application.
 
 ## Link to deployed site
 
-•[CLOUDFLARE](https://fitness-starter-react-app.pages.dev/)
+  • [CLOUDFLARE](https://fitness-starter-react-app.pages.dev/)
 
 ## Installation instructions
 
-1. npm install
-2. npm start
+  1. npm install
+  2. npm start
 
 ## Acknowledgement
-. ZAINKEEPSCODE
+  . ZAINKEEPSCODE
